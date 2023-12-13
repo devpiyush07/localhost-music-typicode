@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "artist":
+    [
+      {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://i.scdn.co/image/ab67616d00001e02ad40f4e70b2f2a2a6052d49d",
+        "author": "Vishal-Shekhar"
+      },
+      {
+        "name": "Radha-Krsna Nama Sankirtana",
+        "url": "https://i.scdn.co/image/ab67616d00001e02867034479ba17d3cea860127",
+        "author": "Alice Coltrane"
+      },
+      {
+        "name": "The Radha Krsna Temple (Remastered 2010)",
+        "url": "https://i.scdn.co/image/ab67616d00001e028604ad1cb515dfcc1e57605b",
+        "author": "The Radha Krsna Temple (London)"
+      },
+      {
+        "name": "Radha (From Jab Harry Met Sejal)",
+        "url": "https://i.scdn.co/image/ab67616d00001e029adde977a894d09616b86606",
+        "author": "Pritam"
+      }
+    ]
 }
