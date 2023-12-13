@@ -1,25 +1,644 @@
 {
-  "artist":
-    [
+  "tracks": [
       {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://i.scdn.co/image/ab67616d00001e02ad40f4e70b2f2a2a6052d49d",
-        "author": "Vishal-Shekhar"
+          "uri": "spotify:track:6f7zyAEUCZuvX4Zty62Z5o",
+          "id": "6f7zyAEUCZuvX4Zty62Z5o",
+          "name": "Radha",
+          "albumOfTrack": {
+              "uri": "spotify:album:1Q9pYTcpVfz0eJTZZczELy",
+              "name": "Student of the Year (Original Motion Picture Soundtrack)",
+              "coverArt": {
+                  "sources": [
+                      {
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ad40f4e70b2f2a2a6052d49d",
+                          "width": 300,
+                          "height": 300
+                      },
+                      {
+                          "url": "https://i.scdn.co/image/ab67616d00004851ad40f4e70b2f2a2a6052d49d",
+                          "width": 64,
+                          "height": 64
+                      },
+                      {
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ad40f4e70b2f2a2a6052d49d",
+                          "width": 640,
+                          "height": 640
+                      }
+                  ]
+              },
+              "id": "1Q9pYTcpVfz0eJTZZczELy",
+              "sharingInfo": {
+                  "shareUrl": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy?si=BXo1e1K6QtqUDKDi0RcFfg"
+              }
+          },
+          "artists": {
+              "items": [
+                  {
+                      "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb",
+                      "profile": {
+                          "name": "Vishal-Shekhar"
+                      }
+                  },
+                  {
+                      "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy",
+                      "profile": {
+                          "name": "Shreya Ghoshal"
+                      }
+                  },
+                  {
+                      "uri": "spotify:artist:70B80Lwx2sxti0M1Ng9e8K",
+                      "profile": {
+                          "name": "Udit Narayan"
+                      }
+                  },
+                  {
+                      "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k",
+                      "profile": {
+                          "name": "Vishal Dadlani"
+                      }
+                  },
+                  {
+                      "uri": "spotify:artist:4xd7mLI7urqrxELaXhAvzw",
+                      "profile": {
+                          "name": "Shekhar Ravjiani"
+                      }
+                  }
+              ]
+          },
+          "contentRating": {
+              "label": "NONE"
+          },
+          "duration": {
+              "totalMilliseconds": 341360
+          },
+          "playability": {
+              "playable": true
+          }
       },
       {
-        "name": "Radha-Krsna Nama Sankirtana",
-        "url": "https://i.scdn.co/image/ab67616d00001e02867034479ba17d3cea860127",
-        "author": "Alice Coltrane"
+          "data": {
+              "uri": "spotify:track:5t2syaVJmJ08TMpjiw3Ar3",
+              "id": "5t2syaVJmJ08TMpjiw3Ar3",
+              "name": "Radha (From \"Student of the Year\")",
+              "albumOfTrack": {
+                  "uri": "spotify:album:1Erhkd16vENSDCkSTldhAu",
+                  "name": "Raula Pai Jaan De (Bollywood Songs for Weddings)",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02ded00639bb2a0250eaa44c11",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851ded00639bb2a0250eaa44c11",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273ded00639bb2a0250eaa44c11",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "1Erhkd16vENSDCkSTldhAu",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/1Erhkd16vENSDCkSTldhAu?si=tDs4qf1tR8y4BZht443UoA"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb",
+                          "profile": {
+                              "name": "Vishal-Shekhar"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy",
+                          "profile": {
+                              "name": "Shreya Ghoshal"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:70B80Lwx2sxti0M1Ng9e8K",
+                          "profile": {
+                              "name": "Udit Narayan"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k",
+                          "profile": {
+                              "name": "Vishal Dadlani"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:4xd7mLI7urqrxELaXhAvzw",
+                          "profile": {
+                              "name": "Shekhar Ravjiani"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 341360
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
       },
       {
-        "name": "The Radha Krsna Temple (Remastered 2010)",
-        "url": "https://i.scdn.co/image/ab67616d00001e028604ad1cb515dfcc1e57605b",
-        "author": "The Radha Krsna Temple (London)"
+          "data": {
+              "uri": "spotify:track:5yYgGkyYJmmSwRp3caFplJ",
+              "id": "5yYgGkyYJmmSwRp3caFplJ",
+              "name": "Radha",
+              "albumOfTrack": {
+                  "uri": "spotify:album:4I39l0YJ7tmSBXZGZamN5E",
+                  "name": "Jab Harry Met Sejal (Original Motion Picture Soundtrack)",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02a08a13555e245f7f11aba13f",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851a08a13555e245f7f11aba13f",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273a08a13555e245f7f11aba13f",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "4I39l0YJ7tmSBXZGZamN5E",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E?si=qttXvuEiRLmzAoO3_NtLTg"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
+                          "profile": {
+                              "name": "Pritam"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:4LnYRxNZVCTsDCO2xKjOn8",
+                          "profile": {
+                              "name": "Shahid Mallya"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:3eDT9fwXKuHWFvgZaaYC5v",
+                          "profile": {
+                              "name": "Sunidhi Chauhan"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 301889
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
       },
       {
-        "name": "Radha (From Jab Harry Met Sejal)",
-        "url": "https://i.scdn.co/image/ab67616d00001e029adde977a894d09616b86606",
-        "author": "Pritam"
+          "data": {
+              "uri": "spotify:track:0wnLMEOQlyW3Es1ag0HMVV",
+              "id": "0wnLMEOQlyW3Es1ag0HMVV",
+              "name": "Radha Kaise Na Jale",
+              "albumOfTrack": {
+                  "uri": "spotify:album:1emmJiAJRnSYETup4o1UsM",
+                  "name": "Lagaan (Original Motion Picture Soundtrack)",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c435f8cb3717f5765bfdb4aa",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851c435f8cb3717f5765bfdb4aa",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c435f8cb3717f5765bfdb4aa",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "1emmJiAJRnSYETup4o1UsM",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/1emmJiAJRnSYETup4o1UsM?si=l4SnoQ8eTUuMP7OVAhhgJg"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG",
+                          "profile": {
+                              "name": "A.R. Rahman"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:5as8A4G47Ohu9NSWs3Je8U",
+                          "profile": {
+                              "name": "Asha Bhosle"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:70B80Lwx2sxti0M1Ng9e8K",
+                          "profile": {
+                              "name": "Udit Narayan"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:2zGP2SUtwsDhdyYzf0kKp8",
+                          "profile": {
+                              "name": "Vaishali Samant"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 334706
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
+      },
+      {
+          "data": {
+              "uri": "spotify:track:7ztCi9k76A4QmSqWEutFyV",
+              "id": "7ztCi9k76A4QmSqWEutFyV",
+              "name": "Radha (From \"Jab Harry Met Sejal\")",
+              "albumOfTrack": {
+                  "uri": "spotify:album:6twPZvB9fr9uBQUzPeQfbQ",
+                  "name": "Radha (From \"Jab Harry Met Sejal\")",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e029adde977a894d09616b86606",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d000048519adde977a894d09616b86606",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b2739adde977a894d09616b86606",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "6twPZvB9fr9uBQUzPeQfbQ",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/6twPZvB9fr9uBQUzPeQfbQ?si=MsJx9LlPRQO3y6UrG5B_6g"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:1wRPtKGflJrBx9BmLsSwlU",
+                          "profile": {
+                              "name": "Pritam"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:4LnYRxNZVCTsDCO2xKjOn8",
+                          "profile": {
+                              "name": "Shahid Mallya"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:3eDT9fwXKuHWFvgZaaYC5v",
+                          "profile": {
+                              "name": "Sunidhi Chauhan"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 301889
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
+      },
+      {
+          "data": {
+              "uri": "spotify:track:5M8gtOvCXZagsSabGybMzu",
+              "id": "5M8gtOvCXZagsSabGybMzu",
+              "name": "Radha NE Shyam Mali Jashe",
+              "albumOfTrack": {
+                  "uri": "spotify:album:2DwptTwtGDkhnt8SXIhuNo",
+                  "name": "Radha NE Shyam Mali Jashe",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f67723d187989ac4b364339d",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851f67723d187989ac4b364339d",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f67723d187989ac4b364339d",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "2DwptTwtGDkhnt8SXIhuNo",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/2DwptTwtGDkhnt8SXIhuNo?si=xGLrfTPwSaCTTuz1qVLIIA"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:1mBydYMVBECdDmMfE2sEUO",
+                          "profile": {
+                              "name": "Sachin-Jigar"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 222183
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
+      },
+      {
+          "data": {
+              "uri": "spotify:track:3V76aIQ22yXEHYOIsoeWip",
+              "id": "3V76aIQ22yXEHYOIsoeWip",
+              "name": "Radha Krishna flute",
+              "albumOfTrack": {
+                  "uri": "spotify:album:3Tg4fbRNmqZxusSmaZVDsS",
+                  "name": "Radha Krishna flute",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02c8f013d70de2fb82d046c689",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851c8f013d70de2fb82d046c689",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273c8f013d70de2fb82d046c689",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "3Tg4fbRNmqZxusSmaZVDsS",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/3Tg4fbRNmqZxusSmaZVDsS?si=pUg96yZNRZOJHBQ25h6x-Q"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:2AyLAsSZ03yoOx92gMD30U",
+                          "profile": {
+                              "name": "Subham jossi"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:0cvOk0AMDkgfNwDMjEWiAV",
+                          "profile": {
+                              "name": "Jeetu Bhowmik"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 70500
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
+      },
+      {
+          "data": {
+              "uri": "spotify:track:3ZziJElZDohG9ufvtgeAWq",
+              "id": "3ZziJElZDohG9ufvtgeAWq",
+              "name": "Radha Rani Lage",
+              "albumOfTrack": {
+                  "uri": "spotify:album:43DpulfEYAOJlLpMdoywuY",
+                  "name": "Radha Rani Lage",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02f580438005f4dba880bdf816",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851f580438005f4dba880bdf816",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273f580438005f4dba880bdf816",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "43DpulfEYAOJlLpMdoywuY",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/43DpulfEYAOJlLpMdoywuY?si=hWEzWL2wSKCVev36FQElqQ"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:377MjbmPO6WvxAs3a9ET1I",
+                          "profile": {
+                              "name": "Suprabha KV"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 299000
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
+      },
+      {
+          "data": {
+              "uri": "spotify:track:3Qpk2qHree1RTH5lZaKnEK",
+              "id": "3Qpk2qHree1RTH5lZaKnEK",
+              "name": "Desi Girl",
+              "albumOfTrack": {
+                  "uri": "spotify:album:4MzefJUmigFTnjful2wuum",
+                  "name": "Dostana (Original Motion Picture Soundtrack)",
+                  "coverArt": {
+                      "sources": [
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00001e02add6b0e45df7005a55e89c8a",
+                              "width": 300,
+                              "height": 300
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d00004851add6b0e45df7005a55e89c8a",
+                              "width": 64,
+                              "height": 64
+                          },
+                          {
+                              "url": "https://i.scdn.co/image/ab67616d0000b273add6b0e45df7005a55e89c8a",
+                              "width": 640,
+                              "height": 640
+                          }
+                      ]
+                  },
+                  "id": "4MzefJUmigFTnjful2wuum",
+                  "sharingInfo": {
+                      "shareUrl": "https://open.spotify.com/album/4MzefJUmigFTnjful2wuum?si=SlVPEe48RCaHLpn2ln2QXQ"
+                  }
+              },
+              "artists": {
+                  "items": [
+                      {
+                          "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb",
+                          "profile": {
+                              "name": "Vishal-Shekhar"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a",
+                          "profile": {
+                              "name": "Shankar Mahadevan"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:3eDT9fwXKuHWFvgZaaYC5v",
+                          "profile": {
+                              "name": "Sunidhi Chauhan"
+                          }
+                      },
+                      {
+                          "uri": "spotify:artist:6CXEwIaXYfVJ84biCxqc9k",
+                          "profile": {
+                              "name": "Vishal Dadlani"
+                          }
+                      }
+                  ]
+              },
+              "contentRating": {
+                  "label": "NONE"
+              },
+              "duration": {
+                  "totalMilliseconds": 306986
+              },
+              "playability": {
+                  "playable": true
+              }
+          }
+      },
+      {
+          "uri": "spotify:track:1mUZtcMXCzzv4CMJCX9ddj",
+          "id": "1mUZtcMXCzzv4CMJCX9ddj",
+          "name": "Radha",
+          "albumOfTrack": {
+              "uri": "spotify:album:6YRtBnTA43XQz3RPdWMQy7",
+              "name": "Radha",
+              "coverArt": {
+                  "sources": [
+                      {
+                          "url": "https://i.scdn.co/image/ab67616d00001e02951f2660c644c67b7e5f618b",
+                          "width": 300,
+                          "height": 300
+                      },
+                      {
+                          "url": "https://i.scdn.co/image/ab67616d00004851951f2660c644c67b7e5f618b",
+                          "width": 64,
+                          "height": 64
+                      },
+                      {
+                          "url": "https://i.scdn.co/image/ab67616d0000b273951f2660c644c67b7e5f618b",
+                          "width": 640,
+                          "height": 640
+                      }
+                  ]
+              },
+              "id": "6YRtBnTA43XQz3RPdWMQy7",
+              "sharingInfo": {
+                  "shareUrl": "https://open.spotify.com/album/6YRtBnTA43XQz3RPdWMQy7?si=m7-i-PhLTyiwkxvRP2bosA"
+              }
+          },
+          "artists": {
+              "items": [
+                  {
+                      "uri": "spotify:artist:22edyCj4GZFZVoB5OMjN0y",
+                      "profile": {
+                          "name": "Pran Deep"
+                      }
+                  }
+              ]
+          },
+          "contentRating": {
+              "label": "NONE"
+          },
+          "duration": {
+              "totalMilliseconds": 249729
+          },
+          "playability": {
+              "playable": true
+          }
       }
-    ]
+  ]
 }
