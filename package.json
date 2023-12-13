@@ -1,0 +1,18 @@
+{
+  "name": "localhost-music-typicode",
+  "version": "2.13.2",
+  "description": "music app build by rdx && piyush",
+  "main": "index.html",
+  "scripts": {
+    "test": "hello world !"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devpiyush07"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Piyush Makwana",
+  "license": "MIT"
+}
